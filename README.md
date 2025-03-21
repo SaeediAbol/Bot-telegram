@@ -1,0 +1,1 @@
+First download the repository using git clone Then edit the file using nano and in the token section you need to replace the token of your telegram bot that you got from BotFader Then run the file python.
